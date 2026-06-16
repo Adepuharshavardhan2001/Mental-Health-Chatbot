@@ -25,10 +25,13 @@ This project demonstrates **production-grade GenAI chatbot development** with:
 - **Frontend**: Streamlit (Chat Interface)
 - **Key Techniques**: Advanced System Prompt Engineering, Role-based Instructions, Conversation History Management
 
-<img width="64" height="35" alt="image" src="https://github.com/user-attachments/assets/f00455c0-dd3f-4fef-b973-66dff2f9ae4c" />
-<img width="64" height="27" alt="image" src="https://github.com/user-attachments/assets/e2ce4f61-205d-400b-b792-21bc4a316094" />
-<img width="64" height="34" alt="image" src="https://github.com/user-attachments/assets/28180f6a-5b43-40dc-96d5-8e553489f2aa" />
-<img width="64" height="27" alt="image" src="https://github.com/user-attachments/assets/304ca1c9-25a8-4798-8c09-2500fa2aac52" />
+<img width="1774" height="960" alt="image" src="https://github.com/user-attachments/assets/6600b4f0-97ba-4430-b876-44c9eed3f39c" />
+<img width="1179" height="502" alt="image" src="https://github.com/user-attachments/assets/73eaa6a1-42a5-4e3f-9d25-9c50b6817fc9" />
+<img width="1087" height="577" alt="image" src="https://github.com/user-attachments/assets/c6b83c6b-20cd-4d89-bd3f-5fd1a1bfffdb" />
+<img width="1120" height="466" alt="image" src="https://github.com/user-attachments/assets/0dc7b22f-9e49-433b-a5f0-42697e831761" />
+
+
+
 
 
 
